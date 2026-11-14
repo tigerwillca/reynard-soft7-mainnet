@@ -1,0 +1,28 @@
+{
+  "name": "Reynard Soft7 #5 (Art 037)",
+  "description": "Reynard Soft7 on Robinhood Chain mainnet. SoftReynard7 card from The Seventh Gate. Art slot 037. Supply 7. Secondary sales pay a 7.5% creator fee; 1.5% of the sale price is paid quarterly on-chain to holders of Soft7 tokens 1-7.",
+  "image": "https://cdn.jsdelivr.net/gh/tigerwillca/reynard-soft7-mainnet@e34d61ae85bfc5364f5b620df0d81fa8790f6a14/images/037.jpg",
+  "external_url": "https://tigerwillca.github.io/",
+  "attributes": [
+    {
+      "trait_type": "Art Slot",
+      "value": "037"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Tiger"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Robinhood Chain"
+    },
+    {
+      "trait_type": "Chain ID",
+      "value": "4663"
+    },
+    {
+      "trait_type": "Drop",
+      "value": "Soft7"
+    }
+  ]
+}
